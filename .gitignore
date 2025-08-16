@@ -1,0 +1,7 @@
+echo "bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+packages/" > .gitignore
