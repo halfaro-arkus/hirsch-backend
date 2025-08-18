@@ -10,7 +10,7 @@ namespace Hirsch.Services
         private readonly HttpClient _httpClient = new();
 
         public UserService() {
-            RegisterUser(new UserRequest { Email = "halfaro@arkusnexus.com", Password = "halfaro" });
+            RegisterUser(new UserRequest { Email = "admin@gmail.com", Password = "admin" });
         }
         
 
